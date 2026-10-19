@@ -1,0 +1,8 @@
+dbg.txt
+labels.txt
+*.nes
+*.s
+!nesdoug.s
+!neslib.s
+!crt0.s
+!music/famitone2.s
